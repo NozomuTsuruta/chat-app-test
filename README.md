@@ -1,3 +1,4 @@
 このウェブアプリケーションはサーバーサイドにFirebaseのFirestoreを用いた。
 TypeScript、styled-components、react-momentなどのライブラリ等を使用した。
-
+Immutable.jsは数値以外での使い方がまだ理解できていないので、出来次第組み込みたい
+redux-thunkは非同期で実装できる機能を思い付いたら、実装したいと思う
