@@ -37,3 +37,12 @@ export const UserName = styled.p`
   transform: translate(-50%, -50%);
   white-space: nowrap;
 `;
+
+export const Error = styled.p`
+  position: absolute;
+  top: 27%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+  color: red;
+`
