@@ -7,9 +7,9 @@ import { AppContainer } from './App-Styles';
 function App() {
   return (
     <AppContainer>
-      <Header/>
-      <Form/>
-      <ChatBox/>
+      <Header />
+      <Form />
+      <ChatBox />
     </AppContainer>
   );
 }
